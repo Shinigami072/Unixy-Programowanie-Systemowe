@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/f1.c
+f1.h
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/f1.h
+stdio.h
+-
+fcntl.h
+-
+unistd.h
+-
+
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/f1.h
+
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/main.c
+stdio.h
+-
+f1.h
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/f1.h
+

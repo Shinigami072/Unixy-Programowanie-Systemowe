@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/F1.dir/f1.c.o  -o F1 

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/d2.c
+stdio.h
+-
+string.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+sys/dir.h
+-
+errno.h
+-
+stdlib.h
+-
+time.h
+-
+

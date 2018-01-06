@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/p3.c
+stdio.h
+-
+unistd.h
+-
+

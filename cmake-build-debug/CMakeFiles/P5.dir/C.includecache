@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/p5.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+sys/wait.h
+-
+sys/file.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+string.h
+-
+errno.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/F2.dir/f2.c.o  -o F2 

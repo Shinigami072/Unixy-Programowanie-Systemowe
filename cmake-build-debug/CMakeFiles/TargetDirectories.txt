@@ -1,0 +1,10 @@
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/cmake-build-debug/CMakeFiles/P5.dir
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/cmake-build-debug/CMakeFiles/P4.dir
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/cmake-build-debug/CMakeFiles/P3.dir
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/cmake-build-debug/CMakeFiles/P2.dir
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/cmake-build-debug/CMakeFiles/P1.dir
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/cmake-build-debug/CMakeFiles/D2.dir
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/cmake-build-debug/CMakeFiles/F2.dir
+/home/shinigami/Documents/P_wdUnix/Unix-ProgramowanieSystemowe/cmake-build-debug/CMakeFiles/F1.dir
